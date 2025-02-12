@@ -2,6 +2,7 @@ part of 'shared.dart';
 
 final colorPrimary = '1D1C36FF'.toColor();
 final colorWhite = 'FFFFFF'.toColor();
+final pinkGradation = 'FF89B1FF'.toColor();
 
 final imageLogo = AssetImage('assets/images/car.jpg');
 final imageGoogle = 'assets/icons/google.png';
